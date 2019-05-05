@@ -2,8 +2,8 @@
 
 ![](./images/KDE.png)
 
-> #### Strength of mind rests in sobriety; for this keeps your reason unclouded by passion.####
-*Phythagoras*
+> #### Strength of mind rests in sobriety; for this keeps your reason unclouded by passion.<br>
+>*Phythagoras*
 
 ## Introduction
 
@@ -23,7 +23,7 @@ I attempted to use Kernel Density Estimation techniques to generate a PDF (Proba
 
 *(There are other ideas floating around, e.g. that stock market returns are Cauchy distributed - that will be for another notebook in the future. The purpose of this notebook is to demonstrate KDE using Python, and the data we use happens to be stock market returns)*
 
-Dive into the Notebook [here](./Kernel Density Estimation with S&P 500 Data.ipynb)
+Dive into the Notebook [here](./Kernel-Density-Estimation-with-S&P-500-Data.ipynb).
 
-> __Enjoy, keep calm & code in Python!__
-> OCY
+> __Enjoy, keep calm & code in Python!__<br>
+> *OCY*
